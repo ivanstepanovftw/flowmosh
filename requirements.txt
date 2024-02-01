@@ -1,0 +1,6 @@
+opencv-python
+torch
+torchvision
+pybind11
+inverse_optical_flow
+qoi

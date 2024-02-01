@@ -1,0 +1,2 @@
+* text=auto eol=lf
+/docs/**/* filter=lfs diff=lfs merge=lfs -text
